@@ -30,7 +30,7 @@ const DisplayQuote = () => {
                     </Typography>
                 </CardContent>
             </Card>
-            <Typography textAlign='center' sx={{ m: 25.5 }}>
+            <Typography textAlign='center' sx={{ m: 15.5 }}>
                 <Button position='fixed' variant='outlined' size='large' onClick={() => onChange()}>
                     Find a new One...
                 </Button>
